@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devendramuppalla
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently LSTM
+- 🌱 I’m currently studying Masters in Data Science
 - 💞️ I’m looking to collaborate on All sort of discussions in forecasting
 - 📫 How to reach me mdsai9999@gmail.com
 
